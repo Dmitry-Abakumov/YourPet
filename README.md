@@ -1,18 +1,18 @@
-Hello. YouPet is an React team project.
+Hello. YouPet is an multipage React team project
 
 There are:
 
-- authorization,
-- login,
-- pagination,
-- public and private routes,
-- filtration,
-- burger menu,
-- modal windows
+1. authorization
+2. login
+3. pagination
+4. public and private routes
+5. filtration
+6. burger menu
+7. modal windows
 
-My role is a developer.
+My role is a developer
 
-My piece of work - "Add pet" page.
+My piece of work - "Add pet" page
 
 There is multipage form with field validation on this page. With this, you can:
 
@@ -21,11 +21,13 @@ There is multipage form with field validation on this page. With this, you can:
 
 Used technologies and libraries:
 
-- React,
-- React-router-dom,
-- Redux,
-- Redux-prsist,
-- Axios,
-- Formik,
-- Yup,
-- CSS modules,
+1. React
+2. React-router-dom
+3. Redux
+4. Redux-prsist
+5. Axios
+6. Formik
+7. Yup
+8. CSS modules
+
+Link to live page: https://dmitry-abakumov.github.io/YourPet/
