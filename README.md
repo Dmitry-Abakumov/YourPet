@@ -1,4 +1,4 @@
-Hello. YouPet is an React team project
+Hello. YouPet is a React team project
 
 There are:
 
